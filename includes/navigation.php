@@ -26,9 +26,11 @@
                      echo "<li><a herf='#'>{$cat_title}</a></li>";
 
                   }
-
-
                   ?>
+
+                  <li>
+                    <a href="admin">Admin</a>
+                  </li>
 
                 </ul>
             </div>
